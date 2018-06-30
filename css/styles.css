@@ -1,0 +1,40 @@
+body{
+    background-color: darkgray;
+    font-family: 'Exo 2', sans-serif;
+}
+
+
+#content{
+    border-style: dashed black 2px;
+}
+
+.itemName{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+
+.itemDescription{
+    display: none;
+    font-weight: normal;
+    
+}
+
+.itemPrice{
+    color: forestgreen;
+    float: right;   
+}
+
+#checkOut{
+    font-size: 25px;
+    text-align: right;
+}
+
+#checkOutSum{
+    color: forestgreen;
+}
+
+.picClass {
+    width: 300px;
+    height: auto;
+}
